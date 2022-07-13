@@ -1,5 +1,9 @@
 [
   {
+    "package": "basetheme",
+    "oncran": true
+  },
+  {
     "package": "matrixTests",
     "oncran": true
   }
