@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "annmatrix"]
 	path = annmatrix
 	url = https://github.com/karoliskoncevicius/annmatrix
-	shallow = true
-	registered = true
 [submodule "basetheme"]
 	path = basetheme
 	url = https://github.com/karoliskoncevicius/basetheme
-	shallow = true
-	registered = true
 [submodule "matrixTests"]
 	path = matrixTests
 	url = https://github.com/karoliskoncevicius/matrixtests
-	shallow = true
-	registered = true
